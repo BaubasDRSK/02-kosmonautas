@@ -1,4 +1,4 @@
-# Katiniukas
+# Kosmonautas
 
 _website design project_
 
